@@ -1,0 +1,17 @@
+C:\Users\MW-PC\source\repos\SystemPortal\SystemPortal.Services\bin\Debug\net9.0\SystemPortal.Services.deps.json
+C:\Users\MW-PC\source\repos\SystemPortal\SystemPortal.Services\bin\Debug\net9.0\SystemPortal.Services.dll
+C:\Users\MW-PC\source\repos\SystemPortal\SystemPortal.Services\bin\Debug\net9.0\SystemPortal.Services.pdb
+C:\Users\MW-PC\source\repos\SystemPortal\SystemPortal.Services\bin\Debug\net9.0\SystemPortal.Data.dll
+C:\Users\MW-PC\source\repos\SystemPortal\SystemPortal.Services\bin\Debug\net9.0\SystemPortal.Repository.dll
+C:\Users\MW-PC\source\repos\SystemPortal\SystemPortal.Services\bin\Debug\net9.0\SystemPortal.Repository.pdb
+C:\Users\MW-PC\source\repos\SystemPortal\SystemPortal.Services\bin\Debug\net9.0\SystemPortal.Data.pdb
+C:\Users\MW-PC\source\repos\SystemPortal\SystemPortal.Services\obj\Debug\net9.0\SystemPortal.Services.csproj.AssemblyReference.cache
+C:\Users\MW-PC\source\repos\SystemPortal\SystemPortal.Services\obj\Debug\net9.0\SystemPortal.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MW-PC\source\repos\SystemPortal\SystemPortal.Services\obj\Debug\net9.0\SystemPortal.Services.AssemblyInfoInputs.cache
+C:\Users\MW-PC\source\repos\SystemPortal\SystemPortal.Services\obj\Debug\net9.0\SystemPortal.Services.AssemblyInfo.cs
+C:\Users\MW-PC\source\repos\SystemPortal\SystemPortal.Services\obj\Debug\net9.0\SystemPortal.Services.csproj.CoreCompileInputs.cache
+C:\Users\MW-PC\source\repos\SystemPortal\SystemPortal.Services\obj\Debug\net9.0\SystemPo.9853616B.Up2Date
+C:\Users\MW-PC\source\repos\SystemPortal\SystemPortal.Services\obj\Debug\net9.0\SystemPortal.Services.dll
+C:\Users\MW-PC\source\repos\SystemPortal\SystemPortal.Services\obj\Debug\net9.0\refint\SystemPortal.Services.dll
+C:\Users\MW-PC\source\repos\SystemPortal\SystemPortal.Services\obj\Debug\net9.0\SystemPortal.Services.pdb
+C:\Users\MW-PC\source\repos\SystemPortal\SystemPortal.Services\obj\Debug\net9.0\ref\SystemPortal.Services.dll

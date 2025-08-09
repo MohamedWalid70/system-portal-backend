@@ -1,0 +1,466 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A60DC3C-8C1F-4D8E-8675-A515EBCA08A0}|SystemPortal.Api\\SystemPortal.Api.csproj|c:\\users\\mw-pc\\source\\repos\\systemportal\\systemportal.api\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A60DC3C-8C1F-4D8E-8675-A515EBCA08A0}|SystemPortal.Api\\SystemPortal.Api.csproj|solutionrelative:systemportal.api\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C5AEB0-622B-4ABE-AE96-8531E3860ABC}|SystemPortal.Services\\SystemPortal.Services.csproj|c:\\users\\mw-pc\\source\\repos\\systemportal\\systemportal.services\\services\\companyservices\\companyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C5AEB0-622B-4ABE-AE96-8531E3860ABC}|SystemPortal.Services\\SystemPortal.Services.csproj|solutionrelative:systemportal.services\\services\\companyservices\\companyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C5AEB0-622B-4ABE-AE96-8531E3860ABC}|SystemPortal.Services\\SystemPortal.Services.csproj|c:\\users\\mw-pc\\source\\repos\\systemportal\\systemportal.services\\services\\authservices\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C5AEB0-622B-4ABE-AE96-8531E3860ABC}|SystemPortal.Services\\SystemPortal.Services.csproj|solutionrelative:systemportal.services\\services\\authservices\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A60DC3C-8C1F-4D8E-8675-A515EBCA08A0}|SystemPortal.Api\\SystemPortal.Api.csproj|c:\\users\\mw-pc\\source\\repos\\systemportal\\systemportal.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A60DC3C-8C1F-4D8E-8675-A515EBCA08A0}|SystemPortal.Api\\SystemPortal.Api.csproj|solutionrelative:systemportal.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975EFF3D-015E-46DF-B6E2-430BED83CFB2}|SystemPortal.Data\\SystemPortal.Data.csproj|c:\\users\\mw-pc\\source\\repos\\systemportal\\systemportal.data\\dtos\\companydtos\\outputcompanydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975EFF3D-015E-46DF-B6E2-430BED83CFB2}|SystemPortal.Data\\SystemPortal.Data.csproj|solutionrelative:systemportal.data\\dtos\\companydtos\\outputcompanydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C5AEB0-622B-4ABE-AE96-8531E3860ABC}|SystemPortal.Services\\SystemPortal.Services.csproj|c:\\users\\mw-pc\\source\\repos\\systemportal\\systemportal.services\\services\\companyservices\\icompanyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C5AEB0-622B-4ABE-AE96-8531E3860ABC}|SystemPortal.Services\\SystemPortal.Services.csproj|solutionrelative:systemportal.services\\services\\companyservices\\icompanyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C5AEB0-622B-4ABE-AE96-8531E3860ABC}|SystemPortal.Services\\SystemPortal.Services.csproj|c:\\users\\mw-pc\\source\\repos\\systemportal\\systemportal.services\\services\\authservices\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C5AEB0-622B-4ABE-AE96-8531E3860ABC}|SystemPortal.Services\\SystemPortal.Services.csproj|solutionrelative:systemportal.services\\services\\authservices\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A60DC3C-8C1F-4D8E-8675-A515EBCA08A0}|SystemPortal.Api\\SystemPortal.Api.csproj|c:\\users\\mw-pc\\source\\repos\\systemportal\\systemportal.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A60DC3C-8C1F-4D8E-8675-A515EBCA08A0}|SystemPortal.Api\\SystemPortal.Api.csproj|solutionrelative:systemportal.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975EFF3D-015E-46DF-B6E2-430BED83CFB2}|SystemPortal.Data\\SystemPortal.Data.csproj|c:\\users\\mw-pc\\source\\repos\\systemportal\\systemportal.data\\dtos\\companydtos\\companylogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975EFF3D-015E-46DF-B6E2-430BED83CFB2}|SystemPortal.Data\\SystemPortal.Data.csproj|solutionrelative:systemportal.data\\dtos\\companydtos\\companylogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975EFF3D-015E-46DF-B6E2-430BED83CFB2}|SystemPortal.Data\\SystemPortal.Data.csproj|c:\\users\\mw-pc\\source\\repos\\systemportal\\systemportal.data\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975EFF3D-015E-46DF-B6E2-430BED83CFB2}|SystemPortal.Data\\SystemPortal.Data.csproj|solutionrelative:systemportal.data\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975EFF3D-015E-46DF-B6E2-430BED83CFB2}|SystemPortal.Data\\SystemPortal.Data.csproj|c:\\users\\mw-pc\\source\\repos\\systemportal\\systemportal.data\\dtos\\companydtos\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975EFF3D-015E-46DF-B6E2-430BED83CFB2}|SystemPortal.Data\\SystemPortal.Data.csproj|solutionrelative:systemportal.data\\dtos\\companydtos\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2418808-421A-4740-96F4-39934C1062DD}|SystemPortal.Repository\\SystemPortal.Repository.csproj|c:\\users\\mw-pc\\source\\repos\\systemportal\\systemportal.repository\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2418808-421A-4740-96F4-39934C1062DD}|SystemPortal.Repository\\SystemPortal.Repository.csproj|solutionrelative:systemportal.repository\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975EFF3D-015E-46DF-B6E2-430BED83CFB2}|SystemPortal.Data\\SystemPortal.Data.csproj|c:\\users\\mw-pc\\source\\repos\\systemportal\\systemportal.data\\models\\uploadedfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975EFF3D-015E-46DF-B6E2-430BED83CFB2}|SystemPortal.Data\\SystemPortal.Data.csproj|solutionrelative:systemportal.data\\models\\uploadedfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A60DC3C-8C1F-4D8E-8675-A515EBCA08A0}|SystemPortal.Api\\SystemPortal.Api.csproj|c:\\users\\mw-pc\\source\\repos\\systemportal\\systemportal.api\\controllers\\otpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A60DC3C-8C1F-4D8E-8675-A515EBCA08A0}|SystemPortal.Api\\SystemPortal.Api.csproj|solutionrelative:systemportal.api\\controllers\\otpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C5AEB0-622B-4ABE-AE96-8531E3860ABC}|SystemPortal.Services\\SystemPortal.Services.csproj|c:\\users\\mw-pc\\source\\repos\\systemportal\\systemportal.services\\services\\otpservices\\otpservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C5AEB0-622B-4ABE-AE96-8531E3860ABC}|SystemPortal.Services\\SystemPortal.Services.csproj|solutionrelative:systemportal.services\\services\\otpservices\\otpservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C5AEB0-622B-4ABE-AE96-8531E3860ABC}|SystemPortal.Services\\SystemPortal.Services.csproj|c:\\users\\mw-pc\\source\\repos\\systemportal\\systemportal.services\\services\\otpservices\\iotpservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C5AEB0-622B-4ABE-AE96-8531E3860ABC}|SystemPortal.Services\\SystemPortal.Services.csproj|solutionrelative:systemportal.services\\services\\otpservices\\iotpservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A60DC3C-8C1F-4D8E-8675-A515EBCA08A0}|SystemPortal.Api\\SystemPortal.Api.csproj|c:\\users\\mw-pc\\source\\repos\\systemportal\\systemportal.api\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A60DC3C-8C1F-4D8E-8675-A515EBCA08A0}|SystemPortal.Api\\SystemPortal.Api.csproj|solutionrelative:systemportal.api\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975EFF3D-015E-46DF-B6E2-430BED83CFB2}|SystemPortal.Data\\SystemPortal.Data.csproj|c:\\users\\mw-pc\\source\\repos\\systemportal\\systemportal.data\\security\\cryptography\\cryptography.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975EFF3D-015E-46DF-B6E2-430BED83CFB2}|SystemPortal.Data\\SystemPortal.Data.csproj|solutionrelative:systemportal.data\\security\\cryptography\\cryptography.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C5AEB0-622B-4ABE-AE96-8531E3860ABC}|SystemPortal.Services\\SystemPortal.Services.csproj|c:\\users\\mw-pc\\source\\repos\\systemportal\\systemportal.services\\systemportal.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{16C5AEB0-622B-4ABE-AE96-8531E3860ABC}|SystemPortal.Services\\SystemPortal.Services.csproj|solutionrelative:systemportal.services\\systemportal.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975EFF3D-015E-46DF-B6E2-430BED83CFB2}|SystemPortal.Data\\SystemPortal.Data.csproj|c:\\users\\mw-pc\\source\\repos\\systemportal\\systemportal.data\\systemportal.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{975EFF3D-015E-46DF-B6E2-430BED83CFB2}|SystemPortal.Data\\SystemPortal.Data.csproj|solutionrelative:systemportal.data\\systemportal.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2418808-421A-4740-96F4-39934C1062DD}|SystemPortal.Repository\\SystemPortal.Repository.csproj|c:\\users\\mw-pc\\source\\repos\\systemportal\\systemportal.repository\\repositories\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2418808-421A-4740-96F4-39934C1062DD}|SystemPortal.Repository\\SystemPortal.Repository.csproj|solutionrelative:systemportal.repository\\repositories\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2418808-421A-4740-96F4-39934C1062DD}|SystemPortal.Repository\\SystemPortal.Repository.csproj|c:\\users\\mw-pc\\source\\repos\\systemportal\\systemportal.repository\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2418808-421A-4740-96F4-39934C1062DD}|SystemPortal.Repository\\SystemPortal.Repository.csproj|solutionrelative:systemportal.repository\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A60DC3C-8C1F-4D8E-8675-A515EBCA08A0}|SystemPortal.Api\\SystemPortal.Api.csproj|c:\\users\\mw-pc\\source\\repos\\systemportal\\systemportal.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A60DC3C-8C1F-4D8E-8675-A515EBCA08A0}|SystemPortal.Api\\SystemPortal.Api.csproj|solutionrelative:systemportal.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975EFF3D-015E-46DF-B6E2-430BED83CFB2}|SystemPortal.Data\\SystemPortal.Data.csproj|c:\\users\\mw-pc\\source\\repos\\systemportal\\systemportal.data\\migrations\\20250808012055_tables-creation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975EFF3D-015E-46DF-B6E2-430BED83CFB2}|SystemPortal.Data\\SystemPortal.Data.csproj|solutionrelative:systemportal.data\\migrations\\20250808012055_tables-creation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975EFF3D-015E-46DF-B6E2-430BED83CFB2}|SystemPortal.Data\\SystemPortal.Data.csproj|c:\\users\\mw-pc\\source\\repos\\systemportal\\systemportal.data\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975EFF3D-015E-46DF-B6E2-430BED83CFB2}|SystemPortal.Data\\SystemPortal.Data.csproj|solutionrelative:systemportal.data\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975EFF3D-015E-46DF-B6E2-430BED83CFB2}|SystemPortal.Data\\SystemPortal.Data.csproj|c:\\users\\mw-pc\\source\\repos\\systemportal\\systemportal.data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975EFF3D-015E-46DF-B6E2-430BED83CFB2}|SystemPortal.Data\\SystemPortal.Data.csproj|solutionrelative:systemportal.data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2418808-421A-4740-96F4-39934C1062DD}|SystemPortal.Repository\\SystemPortal.Repository.csproj|c:\\users\\mw-pc\\source\\repos\\systemportal\\systemportal.repository\\repositories\\icompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2418808-421A-4740-96F4-39934C1062DD}|SystemPortal.Repository\\SystemPortal.Repository.csproj|solutionrelative:systemportal.repository\\repositories\\icompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SystemPortal.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SystemPortal.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwBEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T04:05:40.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CompanyDto.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Data\\Dtos\\CompanyDtos\\CompanyDto.cs",
+              "RelativeDocumentMoniker": "SystemPortal.Data\\Dtos\\CompanyDtos\\CompanyDto.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Data\\Dtos\\CompanyDtos\\CompanyDto.cs",
+              "RelativeToolTip": "SystemPortal.Data\\Dtos\\CompanyDtos\\CompanyDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T02:10:39.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICompanyServices.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Services\\Services\\CompanyServices\\ICompanyServices.cs",
+              "RelativeDocumentMoniker": "SystemPortal.Services\\Services\\CompanyServices\\ICompanyServices.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Services\\Services\\CompanyServices\\ICompanyServices.cs",
+              "RelativeToolTip": "SystemPortal.Services\\Services\\CompanyServices\\ICompanyServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T03:09:08.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Api\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "SystemPortal.Api\\Controllers\\CompanyController.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Api\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "SystemPortal.Api\\Controllers\\CompanyController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAwF0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T20:30:49.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Data\\Entities\\Company.cs",
+              "RelativeDocumentMoniker": "SystemPortal.Data\\Entities\\Company.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Data\\Entities\\Company.cs",
+              "RelativeToolTip": "SystemPortal.Data\\Entities\\Company.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T14:14:49.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OutputCompanyDto.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Data\\Dtos\\CompanyDtos\\OutputCompanyDto.cs",
+              "RelativeDocumentMoniker": "SystemPortal.Data\\Dtos\\CompanyDtos\\OutputCompanyDto.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Data\\Dtos\\CompanyDtos\\OutputCompanyDto.cs",
+              "RelativeToolTip": "SystemPortal.Data\\Dtos\\CompanyDtos\\OutputCompanyDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T04:25:54.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAuthServices.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Services\\Services\\AuthServices\\IAuthServices.cs",
+              "RelativeDocumentMoniker": "SystemPortal.Services\\Services\\AuthServices\\IAuthServices.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Services\\Services\\AuthServices\\IAuthServices.cs",
+              "RelativeToolTip": "SystemPortal.Services\\Services\\AuthServices\\IAuthServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T04:07:09.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthServices.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Services\\Services\\AuthServices\\AuthServices.cs",
+              "RelativeDocumentMoniker": "SystemPortal.Services\\Services\\AuthServices\\AuthServices.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Services\\Services\\AuthServices\\AuthServices.cs",
+              "RelativeToolTip": "SystemPortal.Services\\Services\\AuthServices\\AuthServices.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwDIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T04:06:48.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Api\\Program.cs",
+              "RelativeDocumentMoniker": "SystemPortal.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Api\\Program.cs",
+              "RelativeToolTip": "SystemPortal.Api\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T20:01:33.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompanyServices.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Services\\Services\\CompanyServices\\CompanyServices.cs",
+              "RelativeDocumentMoniker": "SystemPortal.Services\\Services\\CompanyServices\\CompanyServices.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Services\\Services\\CompanyServices\\CompanyServices.cs",
+              "RelativeToolTip": "SystemPortal.Services\\Services\\CompanyServices\\CompanyServices.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAADwv2MAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T02:42:36.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CompanyLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Data\\Dtos\\CompanyDtos\\CompanyLoginDto.cs",
+              "RelativeDocumentMoniker": "SystemPortal.Data\\Dtos\\CompanyDtos\\CompanyLoginDto.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Data\\Dtos\\CompanyDtos\\CompanyLoginDto.cs",
+              "RelativeToolTip": "SystemPortal.Data\\Dtos\\CompanyDtos\\CompanyLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T04:09:11.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OtpController.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Api\\Controllers\\OtpController.cs",
+              "RelativeDocumentMoniker": "SystemPortal.Api\\Controllers\\OtpController.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Api\\Controllers\\OtpController.cs",
+              "RelativeToolTip": "SystemPortal.Api\\Controllers\\OtpController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T04:28:01.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OtpServices.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Services\\Services\\OtpServices\\OtpServices.cs",
+              "RelativeDocumentMoniker": "SystemPortal.Services\\Services\\OtpServices\\OtpServices.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Services\\Services\\OtpServices\\OtpServices.cs",
+              "RelativeToolTip": "SystemPortal.Services\\Services\\OtpServices\\OtpServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T04:31:21.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "SystemPortal.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Api\\appsettings.json",
+              "RelativeToolTip": "SystemPortal.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-02T21:38:45.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CompanyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Repository\\Repositories\\CompanyRepository.cs",
+              "RelativeDocumentMoniker": "SystemPortal.Repository\\Repositories\\CompanyRepository.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Repository\\Repositories\\CompanyRepository.cs",
+              "RelativeToolTip": "SystemPortal.Repository\\Repositories\\CompanyRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T19:28:56.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Repository\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "SystemPortal.Repository\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Repository\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "SystemPortal.Repository\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T01:43:01.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UploadedFile.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Data\\models\\UploadedFile.cs",
+              "RelativeDocumentMoniker": "SystemPortal.Data\\models\\UploadedFile.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Data\\models\\UploadedFile.cs",
+              "RelativeToolTip": "SystemPortal.Data\\models\\UploadedFile.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T01:50:32.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IOtpServices.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Services\\Services\\OtpServices\\IOtpServices.cs",
+              "RelativeDocumentMoniker": "SystemPortal.Services\\Services\\OtpServices\\IOtpServices.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Services\\Services\\OtpServices\\IOtpServices.cs",
+              "RelativeToolTip": "SystemPortal.Services\\Services\\OtpServices\\IOtpServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T04:31:22.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Cryptography.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Data\\Security\\Cryptography\\Cryptography.cs",
+              "RelativeDocumentMoniker": "SystemPortal.Data\\Security\\Cryptography\\Cryptography.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Data\\Security\\Cryptography\\Cryptography.cs",
+              "RelativeToolTip": "SystemPortal.Data\\Security\\Cryptography\\Cryptography.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T02:45:25.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Api\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "SystemPortal.Api\\Extensions\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Api\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "SystemPortal.Api\\Extensions\\ServiceExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T21:28:23.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SystemPortal.Services.csproj",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Services\\SystemPortal.Services.csproj",
+              "RelativeDocumentMoniker": "SystemPortal.Services\\SystemPortal.Services.csproj",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Services\\SystemPortal.Services.csproj",
+              "RelativeToolTip": "SystemPortal.Services\\SystemPortal.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-08T02:37:57.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SystemPortal.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Data\\SystemPortal.Data.csproj",
+              "RelativeDocumentMoniker": "SystemPortal.Data\\SystemPortal.Data.csproj",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Data\\SystemPortal.Data.csproj",
+              "RelativeToolTip": "SystemPortal.Data\\SystemPortal.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-07T17:04:15.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Repository\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "SystemPortal.Repository\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Repository\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "SystemPortal.Repository\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T01:43:26.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250808012055_tables-creation.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Data\\Migrations\\20250808012055_tables-creation.cs",
+              "RelativeDocumentMoniker": "SystemPortal.Data\\Migrations\\20250808012055_tables-creation.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Data\\Migrations\\20250808012055_tables-creation.cs",
+              "RelativeToolTip": "SystemPortal.Data\\Migrations\\20250808012055_tables-creation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T01:20:55.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Data\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "SystemPortal.Data\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Data\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "SystemPortal.Data\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T01:26:10.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Data\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SystemPortal.Data\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Data\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "SystemPortal.Data\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T19:04:50.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ICompanyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Repository\\Repositories\\ICompanyRepository.cs",
+              "RelativeDocumentMoniker": "SystemPortal.Repository\\Repositories\\ICompanyRepository.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\SystemPortal\\SystemPortal.Repository\\Repositories\\ICompanyRepository.cs",
+              "RelativeToolTip": "SystemPortal.Repository\\Repositories\\ICompanyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T19:29:38.077Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

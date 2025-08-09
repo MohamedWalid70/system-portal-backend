@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "YT7Armj5wQtx5s8S/2bZDV2ygGyvxueVbQ82/dUBkcQ=",
+  "Source": "SystemPortal.Api",
+  "BasePath": "_content/SystemPortal.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
