@@ -1,9 +1,9 @@
 ﻿using FluentResults;
 using Microsoft.AspNetCore.Mvc;
-using System.Threading.Tasks;
-using SystemPortal.Data.Dtos.CompanyDtos;
-using SystemPortal.Services.services.CompanyServices;
 using SystemPortal.Services.Services.AuthServices;
+using SystemPortal.Services.Services.AuthServices.Dtos;
+using SystemPortal.Services.Services.CompanyServices.Dtos;
+using SystemPortal.Services.Services.UserServices.Dtos;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -21,16 +21,28 @@ namespace SystemPortal.Api.Controllers
         }
 
         // POST api/<AuthController>
-        [HttpPost]
-        public async ValueTask<ActionResult> Post([FromBody] CompanyLoginDto companyLoginDto)
+        [HttpPost("company")]
+        public async ValueTask<ActionResult> CompanyLogin([FromBody] LoginDto companyLoginDto)
         {
-            Result<OutputCompanyDto> result = await _authServices.CompanyLoginAsync(companyLoginDto);
+            Result<CompanyOutputDto> result = await _authServices.CompanyLoginAsync(companyLoginDto);
 
             if (result.IsSuccess)
             {
                 return Ok(result.Value);
             }
-            return BadRequest();
+            return Unauthorized();
+        }
+
+        [HttpPost("admin")]
+        public async ValueTask<ActionResult> AdminLogin([FromBody] LoginDto adminLoginDto)
+        {
+            Result<UserOutputDto> result = await _authServices.AdminLoginAsync(adminLoginDto);
+
+            if (result.IsSuccess)
+            {
+                return Ok(result.Value);
+            }
+            return Unauthorized();
         }
     }
 }
